@@ -1,0 +1,9 @@
+
+
+/* Set a modern font family for the entire document */
+body {
+  font:14px 'Century Gothic', Fatura, sans-serif;
+  background-color: #fff; /* Blanc */
+  color: #333;
+}
+

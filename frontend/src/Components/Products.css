@@ -1,0 +1,48 @@
+/* Products.css */
+.search-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.search-input {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  margin-right: 10px;
+  padding: 5px;
+}
+
+input[type="text"] {
+  border: none;
+  outline: none;
+  padding: 5px;
+  width: 200px;
+}
+
+.search-icon {
+  cursor: pointer;
+}
+
+.search-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  background-color: #0056b3;
+}
+
+.search-button {
+  background-color: #f0f0f0;
+  border: none;
+  color: #333;
+  padding: 8px 12px;
+  cursor: pointer;
+}
