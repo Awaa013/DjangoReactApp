@@ -1,0 +1,72 @@
+[33mcommit 162796fd851eeafa69600f5e8e0f1724f5fde409[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Awaa013 <waw.diallo.edu@groupe-gema.com>
+Date:   Thu Jul 20 23:28:48 2023 +0200
+
+    Add frontend submodule
+
+[33mcommit 8c8f1095a4f0e5ae39a7a8771a686017bf9ef2f7[m
+Author: Awaa013 <waw.diallo.edu@groupe-gema.com>
+Date:   Thu Jul 20 23:28:14 2023 +0200
+
+    Remove frontend submodule
+
+[33mcommit 0ef577963aa52cb61888fe43101228ed73cd975e[m
+Author: Awaa013 <waw.diallo.edu@groupe-gema.com>
+Date:   Thu Jul 20 23:16:20 2023 +0200
+
+    Ajouter le sous-module frontend
+
+[33mcommit 20ff1bfaac7ca848a9539f224dba9d44a99e2b99[m
+Author: Awaa013 <waw.diallo.edu@groupe-gema.com>
+Date:   Thu Jul 20 23:02:35 2023 +0200
+
+    Ajouter le dossier frontend
+
+[33mcommit e16b5d36aa0e81b0d1346846e174af5852330032[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: d5526565 e590ef74
+Author: Awaa013 <waw.diallo.edu@groupe-gema.com>
+Date:   Thu Jul 20 22:57:58 2023 +0200
+
+    Merge branch 'main' of https://github.com/Awaa013/APPDjangoReact
+
+[33mcommit d5526565622d61ef4de878109cbf2ab0f071f44e[m
+Author: Awaa013 <waw.diallo.edu@groupe-gema.com>
+Date:   Thu Jul 20 22:52:37 2023 +0200
+
+    Initial commit
+
+[33mcommit 209de037a938ea60293f90efb3913a9e78b88dc5[m
+Author: Awaa013 <waw.diallo.edu@groupe-gema.com>
+Date:   Thu Jul 20 22:47:02 2023 +0200
+
+    Initial commit
+
+[33mcommit e590ef74c9204f68856f7de08a0c066536ea55e7[m
+Author: Awaa013 <94631269+Awaa013@users.noreply.github.com>
+Date:   Thu Jul 20 22:45:39 2023 +0200
+
+    Initial commit
+
+[33mcommit a188b31857c7a7b4b4a15192b2cf8ce52486e23b[m
+Author: Awaa013 <waw.diallo.edu@groupe-gema.com>
+Date:   Thu Jul 20 22:35:57 2023 +0200
+
+    Ajouter le fichier .gitignore pour ignorer le répertoire venv
+
+[33mcommit 3d6920fca97000e46dca55c9f1ef74f16aa6a084[m
+Author: Awaa013 <waw.diallo.edu@groupe-gema.com>
+Date:   Thu Jul 20 22:26:58 2023 +0200
+
+    Ajouter le frontend au projet principal
+
+[33mcommit 5a382e126256e3aca9b84406f64609012e4a1a4a[m
+Author: Awaa013 <waw.diallo.edu@groupe-gema.com>
+Date:   Thu Jul 20 21:43:56 2023 +0200
+
+    Initial commit
+
+[33mcommit a03e91f2cd930fe6845ca06c35bbea0a0301dc20[m
+Author: Awaa013 <waw.diallo.edu@groupe-gema.com>
+Date:   Thu Jul 20 21:30:00 2023 +0200
+
+    first commit
