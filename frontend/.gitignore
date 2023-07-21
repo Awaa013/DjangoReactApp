@@ -20,6 +20,4 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-frontend/node_modules/.cache/
-
-frontend/node_modules/.cache/*.pack
+frontend/node_modules/.cache/default-development/*.pack
